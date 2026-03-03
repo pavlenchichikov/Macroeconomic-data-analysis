@@ -14,3 +14,4 @@
    Например,
    Bash
    python main.py --files economic1.csv economic2.csv --report average-gdp
+Пример запуска ![alt text](image.png)
